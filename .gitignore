@@ -2,3 +2,8 @@
 .DS_Store
 backup
 chroma
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/rag-tutorial-v2.iml
+.idea/vcs.xml
